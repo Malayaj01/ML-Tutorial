@@ -1,0 +1,9 @@
+ipykernel
+numpy
+pandas
+seaborn  
+bs4
+requests
+flask
+streamlit
+sklearn 
